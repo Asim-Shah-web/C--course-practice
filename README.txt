@@ -61,4 +61,4 @@ The repository is organized into different folders and files based on major C++ 
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/Asim-Shah-web/C--course-practice
